@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zodiac_Tabs.Android", "Zodiac_Tabs.Android\Zodiac_Tabs.Android.csproj", "{4AC95303-B005-4A3E-ABC6-1C7E54AE8135}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zodiac_Tabs", "Zodiac_Tabs\Zodiac_Tabs.csproj", "{690F9CA1-0F6C-4CF1-BCD1-7D09DE04C298}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AC95303-B005-4A3E-ABC6-1C7E54AE8135}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AC95303-B005-4A3E-ABC6-1C7E54AE8135}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AC95303-B005-4A3E-ABC6-1C7E54AE8135}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{4AC95303-B005-4A3E-ABC6-1C7E54AE8135}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AC95303-B005-4A3E-ABC6-1C7E54AE8135}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AC95303-B005-4A3E-ABC6-1C7E54AE8135}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{690F9CA1-0F6C-4CF1-BCD1-7D09DE04C298}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{690F9CA1-0F6C-4CF1-BCD1-7D09DE04C298}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{690F9CA1-0F6C-4CF1-BCD1-7D09DE04C298}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{690F9CA1-0F6C-4CF1-BCD1-7D09DE04C298}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{690F9CA1-0F6C-4CF1-BCD1-7D09DE04C298}.Release|Any CPU.Build.0 = Release|Any CPU
+		{690F9CA1-0F6C-4CF1-BCD1-7D09DE04C298}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B5BE2E6-4918-41E8-A157-1C4D8B57E3EA}
+	EndGlobalSection
+EndGlobal
